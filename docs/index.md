@@ -1,4 +1,12 @@
 # Friday, July 12, 2019
+
+  header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
+    <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2  ">☰
+    </div>
+    
+    <a class="my0 mx-auto" href="/hanuman/"><amp-img src="/hanuman/assets/images/logo.png" width="110" height="33" layout="fixed" class="my0 mx-auto" alt="Logo"></amp-img></a>
+    
+  </header>
 - MEMO: https://www.thewindowsclub.com/how-to-access-windows-subsystem-for-linux-files-on-windows-10
 - MEMO: https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux
 - MEMO: https://rubyinstaller.org/downloads/
